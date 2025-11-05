@@ -1,4 +1,0 @@
-first line in the file
-secondline added
-third line added
-hi hello,
